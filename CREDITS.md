@@ -4,7 +4,7 @@ Space Why is a fan-made modpack. It is not affiliated with or endorsed by Mojang
 
 ## Made by
 
-Space Why is a free hobby pack, made using AI (Claude, by Anthropic), with thanks to its test pilots for testing and quest ideas.
+Space Why is my free hobby pack (IllegalGoose), made using AI (Claude, by Anthropic). Testing and quest ideas: Chicken (Chicken_dude1) and smore.
 
 ## Our own work
 
