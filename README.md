@@ -37,7 +37,6 @@ existing world are not supported.
 Everything you need to play is on this repository's **[Releases](https://github.com/mikedaf/Space-Why-Per-Aspera/releases)**
 page: open the newest release and download its files. The same pack is also on
 [CurseForge](https://www.curseforge.com/minecraft/modpacks/space-why-per-aspera).
-(The first release here comes with the next update; until then, use CurseForge.)
 
 | File in each release | What it is for |
 |---|---|
