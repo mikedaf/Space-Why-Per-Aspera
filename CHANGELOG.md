@@ -3,10 +3,17 @@
 What changed in the pack, version by version, newest first. Versions before 1.0 were played by a small group of testers.
 Where it says "new land only", the change shows in areas of a world that nobody has explored yet.
 
-## Next version (not released yet)
+## 0.9.43 (new world)
 
-- Alien villages: the shaft down to the lab stops at the ground instead of rising as a tall spire (new land only). The friendly aliens are named "Vragen (trader)" so you can see they trade.
+- **A new world:** much of what changed only shows on new land, and the black hole moved.
+- **Gargantua is twice as big,** as a supermassive black hole should be; the Future and the End moved out to match. The finale's rough edges fixed: radio lines stop once you turn back, crew stay aboard on the way in, "Welcome back" comes at the station.
+- **Playing together:** ships belong to their crew and new ships start locked (`/ships lock`, `/ships unlock`). PvP works as the server sets it, but nobody can be hurt in the Trial Arena outside a versus match. One player sleeping on a long-night moon no longer skips days for everyone. Everyone who finishes gets the ending and the trophy. A ship's computer uses its own crew's star charts. Changing world no longer drags nearby ships along, arriving ships never land inside each other, and logging back in after your ship moved puts you on it.
+- **Autopilot and Helios:** climbs over hills and Aether islands; STOP OUTSIDE a moon keeps pace with it; a restart mid-flight no longer drops the ship; Ctrl+T always switches engines and the void drive off; small monitors show the whole keypad.
+- **Your game:** calm volume out of the box; ship alarms follow their sound sliders; the ending closes with Music at 0; shaders come back on after quitting in space; a pack update keeps your own settings; no Patreon or donate buttons anywhere in game; voice chat starts with its setup screen.
+- **New land:** 4546B's ocean no longer stutters; Moon outposts and rocks sit on the ground; Europa and Callisto get ice clumps and meteor craters; Biomes O' Plenty grows on tall mountains.
+- Alien villages: the shaft down to the lab stops at the ground instead of rising as a tall spire. The friendly aliens are named "Vragen (trader)" so you can see they trade.
 - The pack ships its own graphics settings: Distant Horizons at 128 chunks, shaders off, Embeddium at its defaults.
+- Server steadiness: two slow memory leaks fixed. Credits and third-party notices for every outside file the pack carries.
 
 ## 0.9.42 (server only)
 
