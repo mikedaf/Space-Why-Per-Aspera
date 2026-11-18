@@ -70,7 +70,7 @@ Where it says "new land only", the change shows in areas of a world that nobody 
 - The Trial Arena moved to Venus; the arena is unbreakable and only coins leave it. New power-climb and New Game+ loops.
 - World (new land only): more bauxite and lithium, about a third more diamonds, sandy sea and river floors, three times the animals, Wanderlite ore is back, rarer dragon nests and asteroids, no more freezing seas.
 - New land builds 1.5 to 2 times faster, new singleplayer worlds start on low flat ground, and land near you loads first.
-- Inventory, hotbar and temperature box in the Space Why colours; a planet with a filling ring on the loading screen; the events box can be moved and resized (Ctrl+F7); the Expedition Flag is Apollo-sized.
+- Inventory, hotbar and temperature box in the Space Why colors; a planet with a filling ring on the loading screen; the events box can be moved and resized (Ctrl+F7); the Expedition Flag is Apollo-sized.
 
 ## 0.9.35
 
@@ -84,7 +84,7 @@ Where it says "new land only", the change shows in areas of a world that nobody 
 ## 0.9.34
 
 - The title screen shows Saturn with its rings, Titan and the Milky Way.
-- The Dread arena sits in a wide, gentle crater with terraces, a patio, an air dome and a grander coliseum: 15 rows of stands, a four-storey wall and a main gate with two towers.
+- The Dread arena sits in a wide, gentle crater with terraces, a patio, an air dome and a grander coliseum: 15 rows of stands, a four-story wall and a main gate with two towers.
 
 ## 0.9.33
 
@@ -160,7 +160,7 @@ Where it says "new land only", the change shows in areas of a world that nobody 
 ## 0.9.21
 
 - Drifting asteroids in the belt with ore veins, and the Tractor Beam to tow one home.
-- The Ship Gauge weighs a ship and shows its centre of mass and thruster balance. Re-entry heat.
+- The Ship Gauge weighs a ship and shows its center of mass and thruster balance. Re-entry heat.
 - Smooth zoom (hold I) and a telescope; meteor showers and meteor impacts; planets sharpen as you descend; the Moon wears the real Moon map.
 - Seasons are back on Earth. Structures never spawn inside or on top of each other. A darker Ender Dragon and a harder Wither. World reset.
 

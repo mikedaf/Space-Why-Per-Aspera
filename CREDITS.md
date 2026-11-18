@@ -10,6 +10,12 @@ Space Why is my free hobby pack (IllegalGoose), made using AI (Claude, by Anthro
 
 The Space Why mod (`space_why`, `space_why_depfix`), its datapack, our textures and art, quests, story books, manuals and programs are licensed **CC BY-ND 4.0** (see `LICENSE`): free to use and share, with credit; no modified copies.
 
+## Files from others inside Space Why
+
+Space Why's mod carries the worlds of **Ad Astra: Planets+** (Dune, Galia, Vulcan, Dread and Glacies: their buildings, villages, dungeons and world generation) by Nebula Modding (DeadbushCarrot, AveryHazel, EmmaTheMartian), MIT license, https://modrinth.com/datapack/planetsplus, some of it changed for the pack. It also carries changed settings files from other mods of the pack. Each keeps its own license: `THIRD_PARTY_NOTICES.md` lists every group with its authors and license, and the license texts.
+
+- **Orbitron** (menus, logo): Matt McInerney, SIL Open Font License 1.1 (the license text ships next to the font).
+
 ## Planet, sky and picture sources
 
 The planet and moon textures come from Wikimedia Commons:
@@ -20,19 +26,19 @@ The planet and moon textures come from Wikimedia Commons:
 | Europa | Europa Voyager-GalileoSSI global mosaic | USGS / Planetary Data System | public domain |
 | Ganymede | Ganymede map by Askaniy | Askaniy Anpilogov, USGS, Björn Jónsson, NASA/JPL-Caltech/SwRI/MSSS/Brian Swift | CC BY-SA 3.0 |
 | Callisto | Callisto map by Askaniy | Askaniy Anpilogov, John van Vliet | CC BY-SA 3.0 |
-| Enceladus, Rhea, Iapetus | Global 3-colour maps (PIA18435, PIA18438, PIA18436) | NASA / JPL-Caltech / Space Science Institute / Lunar and Planetary Institute (Paul Schenk) | public domain |
+| Enceladus, Rhea, Iapetus | Global 3-color maps (PIA18435, PIA18438, PIA18436) | NASA / JPL-Caltech / Space Science Institute / Lunar and Planetary Institute (Paul Schenk) | public domain |
 | Titan | Titan map, April 2011 | NASA | public domain |
 | Titania, Oberon, Miranda | JPL/USGS Voyager maps | Caltech / JPL / USGS | public domain |
 | Triton | Triton map (no grid) | NASA / JPL-Caltech / Lunar and Planetary Institute | public domain |
 
 Changes made: cropped to the map, the unphotographed hemispheres filled with the photographed one (turned half-way
-round so it doesn't read as a mirror image), Io's printed grid removed, Titan coloured orange, Triton recoloured
-pinkish grey, resized to 2048x1024. The CC BY-SA maps (Ganymede, Callisto) stay under CC BY-SA 3.0 as changed here.
+round so it doesn't read as a mirror image), Io's printed grid removed, Titan colored orange, Triton recolored
+pinkish gray, resized to 2048x1024. The CC BY-SA maps (Ganymede, Callisto) stay under CC BY-SA 3.0 as changed here.
 
 ### Made-up worlds and the small moons
 
 Every world without a real map of its own is built from a real one: its brightness (craters, cracks, dunes, cloud
-bands), often turned and flipped, recoloured to fit the world's ground. The sources are the maps above plus the
+bands), often turned and flipped, recolored to fit the world's ground. The sources are the maps above plus the
 maps already in the pack (Mars, Mercury, the Moon, Earth, Jupiter, Saturn, Neptune, Phobos, Deimos; sources and
 licenses in "The older planet maps" below: several are Solar System Scope CC BY 4.0 or Askaniy CC BY-SA 3.0, not public domain).
 
@@ -54,7 +60,7 @@ licenses in "The older planet maps" below: several are Solar System Scope CC BY 
 | The Twilight Forest | Earth |
 | Amalthea, Metis | Phobos (no global map of them exists) |
 | Thebe, Adrastea | Deimos (likewise) |
-| Uranus | its real colour, with Neptune's band structure softened and the bright polar cap seen by JWST |
+| Uranus | its real color, with Neptune's band structure softened and the bright polar cap seen by JWST |
 
 ### The older planet maps: sources found (Nov 6)
 
@@ -73,8 +79,8 @@ same picture). Nothing was replaced: in every case the pack's picture is the sam
 | Mercury | "Mercury map by MESSENGER global mosaic enhancedcolor over completebasemap" (Commons) | NASA / Johns Hopkins University Applied Physics Laboratory / Carnegie Institution of Washington | public domain | 0.994 (colours adjusted) |
 | Phobos | "Phobos map by Askaniy" (Commons), unchanged | Askaniy Anpilogov, Phil Stooke | CC BY-SA 3.0 | 1.0000 |
 | Deimos | "Deimos map by Askaniy" (Commons), turned upside down | Askaniy Anpilogov, John van Vliet | CC BY-SA 3.0 | 1.0000 (flipped) |
-| Glacio (made up) | our picture: NASA's MODIS cloud map (the one used for Earth's clouds) recoloured blue | NASA Earth Observatory / Goddard | public domain source, our recolour | 0.83 |
-| Kepler-10352 (a star, made up) | our picture: the Sun's picture recoloured (like Proxima Centauri, our scripts) | ours, from the Sun above | CC BY 4.0 source | 0.996 |
+| Glacio (made up) | our picture: NASA's MODIS cloud map (the one used for Earth's clouds) recolored blue | NASA Earth Observatory / Goddard | public domain source, our recolor | 0.83 |
+| Kepler-10352 (a star, made up) | our picture: the Sun's picture recolored (like Proxima Centauri, our scripts) | ours, from the Sun above | CC BY 4.0 source | 0.996 |
 | Chroma, Tartarus | copies of our Vulcan / Glacies pictures | ours | - | 1.0000 |
 | Malachite (older picture) | procedural noise pattern, drawn by script (Sep 27); no photo used | ours | - | - |
 | Uranus | our scripts | ours, from Neptune above | CC BY 4.0 source | - |
@@ -90,16 +96,14 @@ CC BY-SA 3.0."
 
 ### Ganymede, Callisto, Rho Ophiuchi: kept, with the reason
 
-The owner said never to lower the quality of a texture, so these stay until a public-domain picture is at least as
-good. Looked at and rejected for now:
+These are kept until a public-domain picture at least as sharp exists. Looked at and rejected for now:
 - **Ganymede / Callisto, USGS maps (public domain, i-2762 and i-2770):** printed map sheets, not clean global
  pictures: a Mercator panel that stops at 57 degrees latitude, two polar discs, grid lines and place names burned
- into the picture, and Callisto's is grey. Turning them into a full sphere would lose detail and colour.
+ into the picture, and Callisto's is gray. Turning them into a full sphere would lose detail and color.
 - **Ganymede, Björn Jónsson's map (Commons, "attribution" license):** only 1800x900, smaller than ours (3840x1920).
 - **Rho Ophiuchi:** NASA/ESA pictures of the region cover a small patch only; the wide-field photo is what lets the
- sky line up with the star catalogue. Options if the owner wants it gone: use a NASA Spitzer/WISE all-sky infrared
- strip, or leave this sight out.
-- **If the owner wants no CC BY-SA at all:** the CC BY-SA set is Ganymede, Callisto (and Galia, The Nether built
+ sky line up with the star catalog. A NASA Spitzer/WISE all-sky infrared strip could replace it one day.
+- **The CC BY-SA pictures:** Ganymede, Callisto (and Galia, The Nether built
  from them), Phobos, Deimos (and Amalthea, Metis, Thebe, Adrastea), Rho Ophiuchi. Each would need a
  public-domain replacement drawn from the sources above; none exists at the same detail today.
 
@@ -135,13 +139,13 @@ good. Looked at and rejected for now:
 | Constellation lines | d3-celestial by Olaf Frohn (`constellations.lines.json`) | BSD 3-clause |
 | Earth without clouds | NASA Earth Observatory, Blue Marble Next Generation (December 2004, topography and bathymetry), Reto Stöckli | public domain |
 | Earth's sharp tiles | the same Blue Marble map at full size (21600x10800) | public domain |
-| The Moon and its sharp tiles | NASA Scientific Visualization Studio, CGI Moon Kit (`lroc_color_poles_16k`, LRO LROC WAC colour mosaic; NASA/GSFC/Arizona State University) | public domain |
+| The Moon and its sharp tiles | NASA Scientific Visualization Studio, CGI Moon Kit (`lroc_color_poles_16k`, LRO LROC WAC color mosaic; NASA/GSFC/Arizona State University) | public domain |
 | Earth's clouds | NASA Earth Observatory / NASA Goddard (MODIS), Blue Marble cloud map | public domain |
 | Earth's city lights | NASA Earth Observatory, Black Marble 2016 (Suomi NPP VIIRS; Joshua Stevens, Miguel Román) | public domain |
 
 Changes made: the Milky Way tone-mapped from HDR, its faint noise floor cut, 4096x2048; each sight's photo cropped to a
 square round the object (the Pleiades and Rho Ophiuchi instead turned and scaled onto the real sky by matching their
-stars to the catalogue), its stars taken out (the brightest kept as a list of points), its sky background darkened to
+stars to the catalog), its stars taken out (the brightest kept as a list of points), its sky background darkened to
 black, a soft round edge added, 1024x1024 (the Crab still 768); the CC BY / CC BY-SA pictures stay under
 their licenses as changed here; the cloud map turned into a white layer whose see-through-ness is the clouds'
 brightness.
@@ -157,7 +161,7 @@ Human-made music or art is very welcome: if you would like to contribute a track
 
 ## Mods in this pack
 
-None of these files are inside the Space Why download. The pack only lists where to get each one from its author's page, and each mod keeps its own license and authors. Some of these licenses are non-commercial, so the pack must never be sold or put behind a paywall.
+The pack lists where to get each mod from its author's page, and each mod keeps its own license and authors. Four of them can't be served by CurseForge, so the CurseForge zip carries their unchanged jars: CC: Tweaked (Daniel Ratcliffe, Aaron Mills, SquidDev), Memory Leak Fix (FX - PR0CESS), VS Safe and Sound (Lancas0) and Withering Heights (sleeptalker). No other mod's jar is inside the Space Why download. Some of these licenses are non-commercial, so the pack must never be sold or put behind a paywall.
 
 | Mod | Authors | License (as declared by the mod) | Link |
 |---|---|---|---|
@@ -446,11 +450,11 @@ None of these files are inside the Space Why download. The pack only lists where
 | VLib | see the mod's page | Apache-2.0 | https://modrinth.com/mod/vlib |
 | VS Eureka Mod | see the mod's page | Apache-2.0 | https://modrinth.com/mod/eureka |
 | VS Logistics | fiisadev | All Rights Reserved | https://modrinth.com/mod/vs-logistics |
-| VS Safe and Sound | see the mod's page | MIT | https://modrinth.com/mod/vs-safe-and-sound |
+| VS Safe and Sound | Lancas0 | MIT | https://modrinth.com/mod/vs-safe-and-sound |
 | VSPrinter-forge-1.20.1-0.2.1.jar | see the mod's page | GPL-3.0-or-later | https://modrinth.com/mod/vsprinter |
 | Waystones | BlayTheNinth | All rights reserved | https://modrinth.com/mod/waystones |
 | When Dungeons Arise | Aurelj, DiamondTown and Zephyrusj | All Rights Reserved | https://modrinth.com/mod/when-dungeons-arise |
-| withering-heights-alpha-1.jar | see the mod's page | MIT | https://modrinth.com/mod/withering-heights |
+| withering-heights-alpha-1.jar | sleeptalker | MIT | https://modrinth.com/mod/withering-heights |
 | WorldEdit | EngineHub | GPL | https://modrinth.com/mod/worldedit |
 | YetAnotherConfigLib | isXander | LGPL-3.0-or-later | https://modrinth.com/mod/yacl |
 | YUNG's API | YUNGNICKYOUNG | LGPLv3 | https://modrinth.com/mod/yungs-api |

@@ -47,8 +47,8 @@ page: open the newest release and download its files. The same pack is also on
 1. In the **CurseForge app**, choose Create Custom Profile > Import and pick the `.zip`, or simply install
    Space Why from its CurseForge page. **Prism Launcher**, ATLauncher, MultiMC and GDLauncher can import the same `.zip`
    (in Prism: Add Instance > Import).
-2. The launcher downloads each mod from its author's page on CurseForge; the zip itself carries only Space Why's own
-   files and settings. A handful of mods have their downloads switched off by their authors: a launcher other than the
+2. The launcher downloads each mod from its author's page on CurseForge; the zip itself carries Space Why's own
+   files and settings, plus four mods CurseForge can't serve (listed in CREDITS.md and THIRD_PARTY_NOTICES.md). A handful of mods have their downloads switched off by their authors: a launcher other than the
    CurseForge app then asks you to download each of those by hand from the page it shows you.
 3. Set the memory to 6-8 GB, start the game, and make a new world.
 4. The first start can download the shader pack (needs internet). Shaders start off; turn them on in
@@ -81,7 +81,7 @@ every player command.
 ## Run a server
 
 1. Download the server pack (`Space_Why_Server-<version>.zip`) from the newest release on the Releases page and unpack it in an empty folder.
-2. Install Java 21 (17 also works) and Python 3, then run the installer script from the pack (the steps are in `SERVER_SETUP.md`). It downloads the mods from their authors'
+2. Install Java 21 and Python 3, then run the installer script from the pack (the steps are in `SERVER_SETUP.md`). It downloads the mods from their authors'
    pages and runs Forge's installer. Mods with no public link are listed in `mods_missing.txt`; add those by hand.
 3. Start `run.sh` (Linux and macOS) or `run.bat` (Windows). Accept the Minecraft EULA in `eula.txt` when asked.
 4. Give the server 10 GB of RAM or more (`user_jvm_args.txt`). Open port 25565 for friends outside your network.

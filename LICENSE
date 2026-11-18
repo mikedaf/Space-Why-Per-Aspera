@@ -17,13 +17,16 @@ In plain words (the legal text below is the only binding version):
 What this license does NOT cover (each keeps its own license and authors; see CREDITS.md):
   - The other mods in the pack. They are not part of our files and are downloaded from their authors' pages.
   - NASA and other real-world pictures (planet maps, sky maps). NASA images are public domain; others are credited
-    with their license in CREDITS.md and Credits_Planet_Maps.md. In particular:
+    with their license in CREDITS.md. In particular:
       - Mars, Venus, Jupiter, Saturn, Neptune and the Sun: Solar System Scope (solarsystemscope.com/textures),
         CC BY 4.0, based on NASA data; pictures made from them stay under CC BY 4.0.
       - Ganymede, Callisto, Phobos, Deimos and Rho Ophiuchi, and the pictures made from them (listed in
-        Credits_Planet_Maps.md): CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). As changed here,
+        CREDITS.md): CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). As changed here,
         they stay under CC BY-SA 3.0, not CC BY-ND.
-  - Changed copies of other mods' or Minecraft's own pictures keep their original license.
+  - Files from other mods or from Minecraft inside Space Why (pictures and data files such as structures, loot tables
+    and world settings), changed or not, keep their original license. THIRD_PARTY_NOTICES.md lists each group, its
+    authors and license; the license texts are in the licenses/ folder. The Orbitron font (SIL Open Font License 1.1)
+    and the MuseScore General sound font's samples (MIT) keep theirs too.
   - Minecraft is a trademark of Mojang/Microsoft. Space Why is a fan-made modpack, not affiliated with or endorsed by
     Mojang, Microsoft, NASA, Apple TV+ or the makers of "For All Mankind".
 
