@@ -3,6 +3,10 @@
 What changed in the pack, version by version, newest first. Versions before 1.0 were played by a small group of testers.
 Where it says "new land only", the change shows in areas of a world that nobody has explored yet.
 
+## 0.9.45
+
+- The game crashed while starting in 0.9.43 and 0.9.44: the fix that hides Embeddium's donation popup hooked the wrong part of Embeddium. Fixed.
+
 ## 0.9.44
 
 - CurseForge removed No Chat Reports, so it is no longer part of the CurseForge pack. We strongly recommend it anyway, from Modrinth (https://modrinth.com/mod/no-chat-reports): without it, anything typed in chat can be reported to Microsoft. Put it on your server first; players can add the one jar too. With it installed, its buttons and warning screen match the pack's menus.
