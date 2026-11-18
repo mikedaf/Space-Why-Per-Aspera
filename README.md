@@ -55,6 +55,12 @@ page: open the newest release and download its files. The same pack is also on
 
 To update, import the newer release's `.zip` the same way (or update the pack in the CurseForge app). Your worlds stay.
 
+**Strongly recommended: No Chat Reports.** It stops your chat from being reportable to Microsoft: your messages are no
+longer signed with your account, so there is nothing to send in. CurseForge doesn't allow it in modpacks, so it is not in
+the pack; get it for free from [Modrinth](https://modrinth.com/mod/no-chat-reports) (the **Forge 1.20.1** file, license
+WTFPL), drop it in the `mods` folder of your instance, and it works with no setup. Server owners should add it to the
+server too (see "Run a server"). Space Why plays fine without it.
+
 Your first steps in game: open the quest book, start with *Getting Started*, and craft the Ship Blueprint for the Pioneer,
 a small starter ship. The Helios Field Manual in your inventory explains the rest as you go.
 
@@ -87,6 +93,11 @@ every player command.
 5. The first start builds about 117 worlds and takes a long time. Then pregenerate before players join:
    `/spacewhy pregen all 1000` (one world at a time; `/spacewhy pregen status` shows progress).
 6. If a trial arena is missing on an older world, an operator runs `/spacewhy trials build`.
+
+7. **Add No Chat Reports to the server's `mods` folder** (free, from [Modrinth](https://modrinth.com/mod/no-chat-reports),
+   the Forge 1.20.1 file). It is not in the pack because CurseForge doesn't allow it, but it is the one extra mod I
+   strongly recommend for any server: it keeps your players' chat from being reportable to Microsoft. The pack already
+   carries its settings.
 
 More detail is in `SERVER_SETUP.md` inside the server pack.
 
