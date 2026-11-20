@@ -21,8 +21,8 @@ This list is made by comparing every file in Space Why with the same path in eve
 | Bountiful | Ejektaflex | GPL 3.0 | in the fixes datapack: 2 changed: `data/bountiful/bounty_pools/` (2) |
 | Dungeon Crawl | xiroc | GNU General Public License v3 | in our jar: 1 changed: `data/dungeoncrawl/tags/` (1) |
 | FramedBlocks | XFactHD | LGPL v3 | in the fixes datapack: 45 changed: `data/framedblocks/recipes/` (45) |
-| Genesis | G_Mungus, Quoissant, Cosmos, Frisk256, Acrogenous, BrickyBoy, Jcm, metafive, GuyApooye, ThePlasticPo | Apache 2.0 | in our jar and the fixes datapack: 28 changed: `assets/genesis/shaders/` (9), `assets/genesis/textures/` (4), `data/genesis/dimension_type/` (1), `data/genesis/genesis/` (3), `data/genesis/recipes/` (1), `data/genesis/tags/` (1) ... |
-| Genesis: Ad Astra | G_Mungus | MIT | in our jar: 13 changed: `assets/genesis/textures/` (8), `data/ad_astra/genesis/` (5) |
+| Genesis | G_Mungus, Quoissant, Cosmos, Frisk256, Acrogenous, BrickyBoy, Jcm, metafive, GuyApooye, ThePlasticPo | Apache 2.0 | in our jar and the fixes datapack: 26 changed: `assets/genesis/shaders/` (9), `assets/genesis/textures/` (2), `data/genesis/dimension_type/` (1), `data/genesis/genesis/` (3), `data/genesis/recipes/` (1), `data/genesis/tags/` (1) ... |
+| Genesis: Ad Astra | G_Mungus | MIT | in our jar: 9 changed: `assets/genesis/textures/` (4), `data/ad_astra/genesis/` (5) |
 | Ice and Fire | Alexthe666, TheBv | GNU LESSER GENERAL PUBLIC LICENSE | in our jar: 1 changed: `data/iceandfire/worldgen/` (1) |
 | Industrial Foregoing | Buuz135 | MIT | in the fixes datapack: 1 changed: `data/industrialforegoing/advancements/` (1) |
 | Invasions | MagyTheMage, MCreator | MIT License | in the fixes datapack: 1 changed: `data/invasions/dimension_type/` (1) |

@@ -120,3 +120,5 @@ some of the mods in it are non-commercial. Every mod, author and license is list
 
 - `CREDITS.md`: mods, music, planet and sky pictures, testers.
 - `CHANGELOG.md`: what changed in each version.
+- [Space Why Dep Fix](https://github.com/mikedaf/space-why-depfix): the source of the small `space_why_depfix` jar in
+  the pack (it lets Zero Point Systems work with Create: Clockwork 0.5.6; same license).
