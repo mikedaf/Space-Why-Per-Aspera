@@ -3,6 +3,14 @@
 What changed in the pack, version by version, newest first. Versions before 1.0 were played by a small group of testers.
 Where it says "new land only", the change shows in areas of a world that nobody has explored yet.
 
+## 0.9.47
+
+- **Gargantua draws much faster:** no more big FPS drop looking at it from the End, and no slideshow from far away at 1080p; same look. `/holedraw old` and `/holedraw fast` compare the two.
+- A second copy of Gargantua's middle no longer shows in the sky behind you near the hole.
+- **Stars and the comet:** the comet near the Sun has a round head and soft tails (no burst of lines or hard beam); every star's glare and streaks follow its real brightness and color; a close star's glare rings its edge.
+- Planet pictures: no seams on Titan and Dytiona, no pinched poles on Nyx and the Astral Realm, a soft fade at 4546B's poles.
+- No wind sounds in worlds with no air (the End, the Moon, orbit worlds, open space, Mars, Venus).
+
 ## 0.9.46
 
 - **Gargantua redrawn:** thin bright arcs bent round a bigger black shadow, a slow-turning disk; from far away a soft glowing ring like the real M87* photo, sharpening into the full picture as you fly in.
