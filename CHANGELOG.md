@@ -3,6 +3,13 @@
 What changed in the pack, version by version, newest first. Versions before 1.0 were played by a small group of testers.
 Where it says "new land only", the change shows in areas of a world that nobody has explored yet.
 
+## 0.9.46
+
+- **Gargantua redrawn:** thin bright arcs bent round a bigger black shadow, a slow-turning disk; from far away a soft glowing ring like the real M87* photo, sharpening into the full picture as you fly in.
+- **Gargantua lights the End and the Future:** day and night from the hole, gold light, brightest near it. The End's orbit is more stretched, so the hole grows huge overhead at the close pass (time dilation on the action bar). Hosts: the End and the Future need fresh land to show the new light.
+- Building a ship while other players explored new land could freeze the server for up to 84 seconds. Fixed.
+- Pre-generating the worlds no longer holds memory for every chunk ever made until a restart.
+
 ## 0.9.45
 
 - The game crashed while starting in 0.9.43 and 0.9.44: the fix that hides Embeddium's donation popup hooked the wrong part of Embeddium. Fixed.
